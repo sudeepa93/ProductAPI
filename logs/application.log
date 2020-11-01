@@ -22,3 +22,6 @@
 2020-11-01 20:22:53.695  INFO 19836 --- [main] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
 2020-11-01 20:22:53.964  INFO 19836 --- [main] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
 2020-11-01 20:22:53.980  INFO 19836 --- [main] c.sudo.productapi.ProductapiApplication  : Started ProductapiApplication in 5.052 seconds (JVM running for 6.342)
+2020-11-01 20:22:55.547  INFO 19836 --- [RMI TCP Connection(4)-127.0.0.1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-01 20:22:55.548  INFO 19836 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-01 20:22:55.559  INFO 19836 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
